@@ -1,7 +1,9 @@
 # Uber_Drives_Analysis
 
-Analyzing Uber Drives data sets that containes different trips from Uber , and answer many buisness questions like :
-#
+Analyzing Uber Drives data sets that containes different trips from Uber using Python Libraries for data analysis and visualization like Pandas , NumPy , seaborn , Matplootlib
+
+
+# Buisness Questions :
 1- For each purpose for each Category calculate the sum of kms driven
 #
 2- Describe the kms of all trips
